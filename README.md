@@ -29,6 +29,5 @@
 
 [linkedin]: https://linkedin.com/in/jan-zimmermann-2641b617b
 
-<-- 
-https://www.youtube.com/watch?v=ECuqb5Tv9qI
---/>
+[//]: <> (https://www.youtube.com/watch?v=ECuqb5Tv9qI)
+[//]: <> (https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/master/README.md)
