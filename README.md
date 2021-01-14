@@ -7,7 +7,7 @@
 ### Connect with me:
 
 [//]: <> ([<img align="left" alt="Jan Zimmermann | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin])
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png)][linedin]
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png)][linkedin]
 
 <br />
 
